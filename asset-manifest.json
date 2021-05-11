@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/compado-test/static/css/main.1532902f.chunk.css",
-    "main.js": "/compado-test/static/js/main.e13e443f.chunk.js",
-    "main.js.map": "/compado-test/static/js/main.e13e443f.chunk.js.map",
+    "main.js": "/compado-test/static/js/main.db2ee1f2.chunk.js",
+    "main.js.map": "/compado-test/static/js/main.db2ee1f2.chunk.js.map",
     "runtime-main.js": "/compado-test/static/js/runtime-main.4119441a.js",
     "runtime-main.js.map": "/compado-test/static/js/runtime-main.4119441a.js.map",
     "static/js/2.d0a7b324.chunk.js": "/compado-test/static/js/2.d0a7b324.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4119441a.js",
     "static/js/2.d0a7b324.chunk.js",
     "static/css/main.1532902f.chunk.css",
-    "static/js/main.e13e443f.chunk.js"
+    "static/js/main.db2ee1f2.chunk.js"
   ]
 }
